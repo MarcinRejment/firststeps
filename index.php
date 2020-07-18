@@ -5,5 +5,4 @@ print ('Hello!<br />');
 2
 3
 ?>
-222
-333
+moje
