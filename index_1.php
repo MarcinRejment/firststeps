@@ -2,7 +2,7 @@
 print ('Hello!<br />');
 //bla
 1
-2
+2ffffff
 3
 ?>
 moje
