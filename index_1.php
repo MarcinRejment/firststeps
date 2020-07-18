@@ -1,8 +1,8 @@
 <?php
 print ('Hello!<br />');
 //bla
-1
-2ffffff
-3
+1fdfd
+2dfdf
+3dfd
 ?>
 moje
