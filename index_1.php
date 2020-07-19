@@ -6,3 +6,5 @@ print ('Hello!<br />');
 3
 ?>
 moje
+www jhgg
+fuhguhe
