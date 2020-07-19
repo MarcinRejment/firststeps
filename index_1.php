@@ -6,3 +6,4 @@ print ('Hello!<br />');
 3
 ?>
 moje
+twoje
